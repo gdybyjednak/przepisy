@@ -1,0 +1,19 @@
+body {
+    background-color: darkseagreen;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+html {
+    background-color: aliceblue;
+}
+
+footer {
+
+    background-color: cadetblue;
+}
+.naglowek {
+    margin: 0px 100px 10px 100px;
+    background-color: aliceblue;
+    text-shadow: 2px 2px darkgrey;
+}
