@@ -17,3 +17,9 @@ footer {
     background-color: aliceblue;
     text-shadow: 2px 2px darkgrey;
 }
+
+img{
+    border: 5px solid crimson;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
